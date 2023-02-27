@@ -1,1 +1,1 @@
-# actions-template-demo
+# actions-template
